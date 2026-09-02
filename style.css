@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #000;
+  color: white;
+  text-align: center;
+}
+
+.hidden {
+  display: none;
+}
+
+#gameScreen {
+  position: relative;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.star {
+  position: absolute;
+  font-size: 30px;
+  cursor: pointer;
+}
+
+#scoreBoard {
+  position: fixed;
+  top: 10px;
+  left: 10px;
+}

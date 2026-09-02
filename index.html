@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Catch the Stars</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div id="startScreen">
+  <h1>Catch the Stars⭐</h1>
+  <p>Click falling stars to score points.<br>Miss 3 stars and game over!</p>
+  <button onclick="startGame()">Start Game</button>
+</div>
+
+<div id="gameScreen" class="hidden">
+  <div id="scoreBoard">
+    Score: <span id="score">0</span>
+    Lives: <span id="lives">3</span>
+  </div>
+</div>
+
+<div id="gameOverScreen" class="hidden">
+  <h2>Game Over</h2>
+  <p>Your Score: <span id="finalScore"></span></p>
+  <button onclick="restartGame()">Replay</button>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
