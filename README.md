@@ -1,10 +1,5 @@
 # Catch the Stars
 
-## Team Members
-- Jancy.G
-- Nishita Jasmine.
-- Priyasankar
-
 ## Description
 Catch the falling stars to earn points. Missing stars reduces lives.
 
