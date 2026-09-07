@@ -1,7 +1,7 @@
 # Catch the Stars       
 
 ## Description
-Catch the falling stars to earn points. Missing stars reduces lives.
+Catch the falling stars to earn points. Missing stars reduces lives. Good luck . 
 
 ## How to Play     
 1. Click Start.
