@@ -43,11 +43,11 @@ function createStar() {
     star.style.top = top + 5 + "px";
   }, 50);
 
-  star.addEventListener("click", () => {
+  star.addEventListener("click",() => {
     score += 10;
     updateUI();
     star.remove();
-    clearInterval(fallInterval);
+    clearInterval(fallInterval); 
   });
 }
 
