@@ -16,6 +16,6 @@ Catch the falling stars to earn points. Missing stars reduces lives. Good luck .
 - Event handling.
 
 ## Concepts Used
-HTML, CSS, JavaScript, loops, arrays, functions.
+HTML, CSS, JavaScript, loops, arrays, functions .
 
 
