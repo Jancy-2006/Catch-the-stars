@@ -44,7 +44,7 @@ function createStar() {
   }, 50);
 
   star.addEventListener("click",() => {
-    score += 10;
+    score += 20;
     updateUI();
     star.remove();
     clearInterval(fallInterval); 
