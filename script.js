@@ -26,7 +26,7 @@ function createStar() {
   star.classList.add("star");
 
   let x = Math.random() * (window.innerWidth - 50);
-  star.style.left = x + "px";
+  star.style.left = x+ "px";
   star.style.top = "0px";
 
   gameScreen.appendChild(star);
