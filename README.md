@@ -1,21 +1,21 @@
 # CATCH THE STARS.    
 
-## Description
+## Description :
 Catch the falling stars to earn points. Missing stars reduces lives. Good luck . 
 
-## How to Play     
+## How to Play :  
 1. Click Start.
 2. Click stars before they fall.
 3. Game ends at 0 lives.
 4. And see how many stars you have own.
 
-## Features
+## Features :
 - Score tracking.
 - Game states.
 - DOM manipulation.
 - Event handling.
 
-## Concepts Used
+## Concepts Used :
 HTML, CSS, JavaScript, loops, arrays, functions .
 
 
