@@ -1,4 +1,4 @@
-# CATCH THE STARS.    
+# CATCH THE STARS..    
 
 ## Description :
 Catch the falling stars to earn points. Missing stars reduces lives. Good luck . 
