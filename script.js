@@ -13,7 +13,7 @@ function startGame() {
   lives = 3;
   isGameActive = true;
 
-  updateUI();
+  updateUI() ;
 
   gameInterval = setInterval(createStar, 1000);
 }
