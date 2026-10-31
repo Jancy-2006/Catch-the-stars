@@ -66,5 +66,5 @@ function endGame() {
 
 function restartGame() {
   document.getElementById("gameOverScreen").classList.add("hidden");
-  startGame();
+  startGame() ;
 }
