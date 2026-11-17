@@ -1,5 +1,5 @@
 let score = 0;
-let lives = 3;
+let lives = 5;
 let gameInterval;
 let isGameActive = false;
 
@@ -10,7 +10,7 @@ function startGame() {
   gameScreen.classList.remove("hidden");
 
   score = 0;
-  lives = 3;
+  lives = 5;
   isGameActive = true;
 
   updateUI() ;
